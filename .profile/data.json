@@ -1,10 +1,15 @@
 {
- "key": "c2fc7b18",
+ "key": "9ba8365",
  "stars": 0,
  "contributions": 0,
- "repos": 1,
+ "repos": 2,
  "followers": 0,
- "languages": [],
+ "languages": [
+  [
+   "HTML",
+   123735
+  ]
+ ],
  "days": [
   [
    {
@@ -104,6 +109,15 @@
  },
  "pins": [],
  "all": [
+  {
+   "name": "mnup",
+   "url": "https://github.com/1z1zqwer/mnup",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
   {
    "name": "1z1zqwer",
    "url": "https://github.com/1z1zqwer/1z1zqwer",
